@@ -1,0 +1,36 @@
+App{
+  font-family: 'Rasa', serif;
+  font-weight: 300;
+  margin: 0; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+button {
+  background: none;
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.text-important {
+  color: lightblue;
+  font-size: 45px;
+}

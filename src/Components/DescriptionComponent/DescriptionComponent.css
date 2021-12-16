@@ -1,0 +1,11 @@
+#descrp-container{
+    display: flex;
+    padding: 35px;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.168);
+}
+#avatar {
+    border-radius: 70%;
+    height: 200px;
+  }

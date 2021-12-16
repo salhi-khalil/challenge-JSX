@@ -1,0 +1,20 @@
+hello everyone;   here the task of TODAY ! :
+- create react-app
+-create folder inside src named Assets where you will put all images you need
+-create folder in src named components.
+- in components you will have 5 others folders:
+* folder 1 :  Contact Components : containing js and CSS file
+     in this component you will return the form needed for contacting you. 
+* folder 2 :  Description Component: containing js and CSS file
+     in this component you will return Description about you
+* folder 3 : Footer Component : containing js and CSS file.
+* folder 4 : Navbar Component : containing js and CSS file.
+* folder 5 : Project component : containing js and CSS file.
+   in this component you will return the list of project you did.
+
+
+   Using what you learn  from html CSS to react-props .. 
+   and based on the screenshot sent on discord channel
+   be creative and good luck dear student :) 
+
+
